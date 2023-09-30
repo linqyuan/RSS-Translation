@@ -32,3 +32,4 @@
  - source019 [http://feeds.nature.com/natcatal/rss/current](http://feeds.nature.com/natcatal/rss/current) -> [Nature_Catalysis_rss.xml](rss/Nature_Catalysis_rss.xml)
  - source020 [https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=accacs](https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=accacs) -> [ACS_Catalysis_rss.xml](rss/ACS_Catalysis_rss.xml)
  - source021 [https://paperity.org/rss/?q=magnesium+AND+batteries&sort=date_desc](https://paperity.org/rss/?q=magnesium+AND+batteries&sort=date_desc) -> [magnesium_batteries_rss.xml](rss/magnesium_batteries_rss.xml)
+ - source022 [https://paperity.org/rss/?q=sulfur+AND+batteries](https://paperity.org/rss/?q=sulfur+AND+batteries) -> [sulfur_batteries_rss.xml](rss/sulfur_batteries_rss.xml)
