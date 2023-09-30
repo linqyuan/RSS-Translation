@@ -36,3 +36,4 @@
  - source023 [https://physics.stackexchange.com/feeds/tag?tagnames=physical-chemistry&sort=newest](https://physics.stackexchange.com/feeds/tag?tagnames=physical-chemistry&sort=newest) -> [physics_stackexchange_rss.xml](rss/physics_stackexchange_rss.xml)
  - source024 [https://physics.stackexchange.com/feeds/tag?tagnames=everyday-life&sort=newest](https://physics.stackexchange.com/feeds/tag?tagnames=everyday-life&sort=newest) -> [everyday_life_stackexchange_rss.xml](rss/everyday_life_stackexchange_rss.xml)
  - source025 [http://feeds.nature.com/nature/rss/current](http://feeds.nature.com/nature/rss/current) -> [natureJ_rss.xml](rss/natureJ_rss.xml)
+ - source026 [https://paperity.org/rss/?q=magnesium+AND+batteries&sort=date_desc](https://paperity.org/rss/?q=magnesium+AND+batteries&sort=date_desc) -> [magnesium_batteries_rss.xml](rss/magnesium_batteries_rss.xml)
