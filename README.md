@@ -35,4 +35,4 @@
  - source022 [https://chemistry.stackexchange.com/feeds](https://chemistry.stackexchange.com/feeds) -> [chemistry_stackexchange_rss.xml](rss/chemistry_stackexchange_rss.xml)
  - source023 [https://physics.stackexchange.com/feeds/tag?tagnames=physical-chemistry&sort=newest](https://physics.stackexchange.com/feeds/tag?tagnames=physical-chemistry&sort=newest) -> [physics_stackexchange_rss.xml](rss/physics_stackexchange_rss.xml)
  - source024 [https://physics.stackexchange.com/feeds/tag?tagnames=everyday-life&sort=newest](https://physics.stackexchange.com/feeds/tag?tagnames=everyday-life&sort=newest) -> [everyday_life_stackexchange_rss.xml](rss/everyday_life_stackexchange_rss.xml)
- - source025 [http://feeds.nature.com/nature/rss/current](http://feeds.nature.com/nature/rss/current) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source025 [http://feeds.nature.com/nature/rss/current](http://feeds.nature.com/nature/rss/current) -> [natureJ_rss.xml](rss/natureJ_rss.xml)
